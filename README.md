@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muammer-Al-Misbah
+- 👋 Hi, I’m Muammer-Al-Misbah
 - 👀 I’m interested in Business Analytics
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on GitHub
